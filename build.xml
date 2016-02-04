@@ -4,7 +4,7 @@
 <project name="BankAccount" default="build" basedir=".">
  <property name="basedir" value="."/>
  <property name="source" value="src"/>
- <property name="phpab" value="C:\Users\hoi.nguyen\AppData\Roaming\Composer\vendor\bin\phpab1"/>
+ <property name="phpab" value="C:\Users\hoi.nguyen\AppData\Roaming\Composer\vendor\bin\phpab"/>
  <property name="phpunit" value="C:\AppServ\php5\vendor\bin\phpunit"/>
  <property name="phpcb" value="C:\AppServ\php5\vendor\bin\phpcb"/>
  <property name="pdepend" value="C:\AppServ\php5\vendor\bin\vendor\bin\pdepend"/>
